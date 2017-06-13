@@ -1,6 +1,5 @@
 body 
 {
-	text-align: center;
 	background-color: #EFE9E9;
 }
 
@@ -22,6 +21,7 @@ h2
 
 p
 {
+	text-align: center;
 	font-size: 25px;
 	color: #2443C0;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -29,6 +29,7 @@ p
 
 img
 {
+	text-align: center;
 	display: block;
 	margin: 0 auto;
 }
