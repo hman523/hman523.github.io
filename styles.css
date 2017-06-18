@@ -96,9 +96,25 @@ ul
 
 .backbutton
 {
-	background-color: #999999
+
+	background-color: #999999;
 	color: #ffffff;
-	text-align: center;
+	height: 50px !important;
+	width: 120px !important;
 	cursor: pointer;
+	border: none;
+
+	font-size: 20px !important;
+	text-align: center !important;
+}
+
+.grow
+{
+	transition: all .5s ease-in-out; 
+}
+
+.grow:hover 
+{
+	transform: scale(1.1);
 }
 
