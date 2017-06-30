@@ -1,6 +1,6 @@
 body 
 {
-	background-color: #EFE9E9;
+	background-color: #e5dada;
 }
 
 h1
@@ -17,6 +17,46 @@ h2
 	text-align: center;
 	color: #049008;
 	font-family: "Times New Roman", Times, serif;
+}
+
+h3
+{
+	font-size: 30px;
+	text-align: center;
+	color: #049008;
+	font-family: "Times New Roman", Times, serif;
+}
+
+table, th, td
+{
+	border: 1px solid black;
+}
+
+th, td
+{
+	padding: 10px;
+}
+
+table
+{
+	border-collapse: collapse;
+}
+
+td
+{
+	text-align: center;
+	font-size: 25px;
+}
+
+th
+{
+	background-color: #f08d7e;
+	font-size: 35px;
+}
+
+tr:hover
+{
+	background-color: #A0A0A0;
 }
 
 p
@@ -36,7 +76,7 @@ img
 
 ul
 {
-	font-size: 20px;
+	font-size: 28px;
 	color: #2443C0;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
